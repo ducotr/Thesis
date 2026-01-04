@@ -6,7 +6,7 @@ This is the ONLY 'connector' script:
 - registers callbacks
 - runs the server
 
-Run from the repo root (where `analysis/` and `data/` packages live):
+Run from the repo root (where data/, analysis/ and dashboard/ packages live):
     python3 run_dashboard.py
 """
 
