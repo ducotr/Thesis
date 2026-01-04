@@ -1,0 +1,7 @@
+TODO:
+- Only show relevant controls (only show semantic threshold when a semantic network is selected)
+- Improve network, node and edge details and remove debug details
+- Docstring every file and function
+- For final version, set debug=False
+- Write a requirements.txt or pyproject.toml
+- Make central config file for all parameters and queries used (including random seeds)

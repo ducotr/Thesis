@@ -1,0 +1,127 @@
+{
+  "concept": "Urban Digital Twin",
+  "description": "OpenAlex works where 'Urban Digital Twin' appears in title or abstract",
+  "data_source": {
+    "name": "OpenAlex",
+    "endpoint": "https://api.openalex.org/works"
+  },
+  "query": {
+    "filter": "title_and_abstract.search:\"Urban Digital Twin\"",
+    "per-page": 200,
+    "cursor_start": "*",
+    "mailto": "duco@trompert.net"
+  },
+  "retrieval": {
+    "date": "2025-12-23",
+    "use_cache": true,
+    "cache_path": "cache/urban_digital_twin.json"
+  },
+  "preprocessing": {
+    "record_filters": [
+      "must have non-empty title",
+      "must have non-empty abstract",
+      "must have valid publication date",
+      "must have at least one keyword"
+    ],
+    "keyword_normalisation": "lowercased, spaces replaced with underscores"
+  },
+  "corpus_stats": {
+    "n_publications": 220,
+    "year_min": 2019,
+    "year_max": 2025,
+    "pubs_per_year": {
+      "2019": 2,
+      "2020": 1,
+      "2021": 12,
+      "2022": 25,
+      "2023": 34,
+      "2024": 67,
+      "2025": 79
+    },
+    "top_keywords": [
+      [
+        "computer science",
+        170
+      ],
+      [
+        "geography",
+        96
+      ],
+      [
+        "engineering",
+        76
+      ],
+      [
+        "data science",
+        47
+      ],
+      [
+        "urban planning",
+        37
+      ],
+      [
+        "civil engineering",
+        35
+      ],
+      [
+        "artificial intelligence",
+        34
+      ],
+      [
+        "world wide web",
+        33
+      ],
+      [
+        "business",
+        33
+      ],
+      [
+        "political science",
+        31
+      ],
+      [
+        "smart city",
+        29
+      ],
+      [
+        "environmental planning",
+        29
+      ],
+      [
+        "cartography",
+        28
+      ],
+      [
+        "remote sensing",
+        27
+      ],
+      [
+        "environmental science",
+        27
+      ],
+      [
+        "sociology",
+        24
+      ],
+      [
+        "visualization",
+        23
+      ],
+      [
+        "knowledge management",
+        21
+      ],
+      [
+        "geospatial analysis",
+        21
+      ],
+      [
+        "data mining",
+        21
+      ]
+    ]
+  },
+  "version": {
+    "schema_version": 1
+  }
+}

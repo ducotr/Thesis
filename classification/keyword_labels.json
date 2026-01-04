@@ -1,0 +1,3642 @@
+{
+  "3d city models": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "accountability": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "accounting": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "adaptability": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "adaptation (eye)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "aerial imagery": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "aerospace": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "aerospace engineering": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "aftershock": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "agent-based model": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "agile software development": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "air pollution": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "air quality index": {
+    "llama3": "concept",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "algorithm": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "allometry": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "android (operating system)": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "archaeology": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "architectural engineering": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "architecture": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "argument (complex analysis)": {
+    "llama3": "concept",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "artificial intelligence": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "asset (computer security)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "concept"
+  },
+  "astrobiology": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "astronomy": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "atmospheric dispersion modeling": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "atmospheric sciences": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "other",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "balance (ability)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "benchmark (surveying)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "benchmarking": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "big data": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "biology": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "bluetooth": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "bluetooth low energy": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "boundary (topology)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "bridge (graph theory)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "bridging (networking)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "building information modeling": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "built environment": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "business": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "business ecosystem": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "business model": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "canyon": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "carbon dioxide": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "carbon fibers": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "other"
+  },
+  "carbon footprint": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "carbon sequestration": {
+    "llama3": "concept",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "cartography": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "census": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "change detection": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "channel (broadcasting)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "character (mathematics)": {
+    "llama3": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept",
+    "mistral": "other"
+  },
+  "chemistry": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "citizen journalism": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "other",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "citizen science": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "citygml": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "civic engagement": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "civil engineering": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "classical mechanics": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "climate change": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "climate change adaptation": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "climate resilience": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "climate science": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "cloud computing": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "cluster analysis": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "co-design": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "cognition": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "cognitive psychology": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "combinatorics": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "community resilience": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "competence (human resources)": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "competition (biology)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "component (thermodynamics)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "computational fluid dynamics": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "computational science": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "computational sociology": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "computer architecture": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "computer graphics (images)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "computer hardware": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "computer network": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "computer science": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "computer security": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "computer vision": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "conceptual framework": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "conceptual model": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "conceptualization": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "connection (principal bundle)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "construction engineering": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "consumption (sociology)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "context (archaeology)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "contextualization": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "control (management)": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "convolutional neural network": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "copernicus": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "corporate governance": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "critical infrastructure": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "critical realism (philosophy of perception)": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "other",
+    "qwen2.5": "concept",
+    "phi3": "concept"
+  },
+  "crystal twinning": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "cultural heritage": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "current (fluid)": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "cyberspace": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "dashboard": {
+    "llama3": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method",
+    "mistral": "method"
+  },
+  "data exchange": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "data governance": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "data integration": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "data mining": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "data modeling": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "data quality": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "data science": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "data sharing": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "data transformation": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "data transmission": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "data visualization": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "database": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "deep learning": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "delphi": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "other"
+  },
+  "delphi method": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "dependency (uml)": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "developing country": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "development (topology)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "development plan": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "digital camera": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "digital data": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "digital ecosystem": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "digital elevation model": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "digital era": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "digital mapping": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "digital rights": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "digital surface": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "concept"
+  },
+  "digital transformation": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "digitization": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "dimension (graph theory)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "dispersion (optics)": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "concept"
+  },
+  "distributed computing": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "diversity (politics)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "domain (mathematical analysis)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "domain knowledge": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "earthquake scenario": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "earthquake simulation": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "ecology": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "econometrics": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "economic geography": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "economic growth": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "economics": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "efficient energy use": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "electrical engineering": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "embedded system": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "emerging technologies": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "encoding (memory)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "other"
+  },
+  "energy (signal processing)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "energy balance": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "energy planning": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "energy system": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "energy transition": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "engineering": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "engineering ethics": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "engineering management": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "envelope (radar)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "environmental economics": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "environmental ethics": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "environmental governance": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "environmental impact assessment": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "environmental planning": {
+    "llama3": "concept",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "environmental resource management": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "environmental science": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "epistemology": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "other"
+  },
+  "estimation": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "european union": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "event (particle physics)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "exploratory research": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "facade": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "factory (object-oriented programming)": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "field (mathematics)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "filter (signal processing)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "financial economics": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "flood myth": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "flooding (psychology)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "focus (optics)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "footprint": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "foundation (evidence)": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "frame (networking)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "function (biology)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "futures contract": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "game art design": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "game design": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "game developer": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "game engine": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "game mechanics": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "gaussian": {
+    "llama3": "concept",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "generalization": {
+    "llama3": "concept",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "generative grammar": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "generative model": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "geocoding": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "geographic information system": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "geography": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "geology": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "geomatics": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "geometry": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "geometry and topology": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "georeference": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "geospatial analysis": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "geospatial pdf": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "geovisualization": {
+    "llama3": "concept",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "government (linguistics)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "governo": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "graph": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "graphical user interface": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "greenhouse gas": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "grid": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "ground": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "ground truth": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "hierarchy": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "history": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "human settlement": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "humanities": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "human–computer interaction": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "hydrogeology": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "idef1x": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "identification (biology)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "other"
+  },
+  "implementation": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "inclusion (mineral)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "industrial ecology": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "inference": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "information retrieval": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "intelligent transportation system": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "interactivity": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "interdependence": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "interface (matter)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "internet of things": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "internet privacy": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "interoperability": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "interpolation (computer graphics)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "intervention (counseling)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "javascript": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "key (lock)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "keynesian economics": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "kinematics": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "knowledge engineering": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "knowledge management": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "knowledge sharing": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "knowledge transfer": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "knowledge value chain": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "land use": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "laser": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "laser scanning": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "last mile (transportation)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "law": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "layer (electronics)": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "leverage (statistics)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "license": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "lidar": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "life-cycle assessment": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "light pollution": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "linked data": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "livelihood": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "living lab": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "machine learning": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "management": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "management science": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "marketing": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "markup language": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "matching (statistics)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "materials science": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "mathematical analysis": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "mathematical optimization": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "mathematics": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "mechanical engineering": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "method",
+    "qwen2.5": "other"
+  },
+  "media studies": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "mediation": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "medicine": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "medline": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "other"
+  },
+  "metadata": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "metaverse": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "meteorology": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "metropolitan area": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "microclimate": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "microsimulation": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "mile": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "mobile device": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "mobile mapping": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "modal": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "modular design": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "modularity (biology)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "morphology (biology)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "multimedia": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "multiplier (economics)": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "multitude": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "mythology": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "natural resource economics": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "net (polyhedron)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "netlogo": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "normative": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "novelty": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "nursing": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "object (grammar)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "other"
+  },
+  "object detection": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "observatory": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "on the fly": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "ontology": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "ontology-based data integration": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "open knowledge base connectivity": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "open source": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "operating system": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "operationalization": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "operations management": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "optics": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "optimization algorithm": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "order (exchange)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "organizational learning": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "orthophoto": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "participatory gis": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "participatory sensing": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "partition (number theory)": {
+    "llama3": "concept",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "concept",
+    "qwen2.5": "other"
+  },
+  "pedestrian": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "perception": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "personal knowledge management": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "perspective (graphical)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "petascale computing": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "philosophical methodology": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "method",
+    "qwen2.5": "other"
+  },
+  "philosophical realism": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "other"
+  },
+  "philosophy": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "philosophy of science": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "photogrammetry": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "photovoltaic system": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "photovoltaics": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "physics": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "pipeline (software)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "pixel": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "placemaking": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "plan (archaeology)": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "pluvial": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "point (geometry)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "point cloud": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "policy analysis": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "political science": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "politics": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "pollutant": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "population": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "primary energy": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "process (computing)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "process management": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "production (economics)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "programming language": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "projection (relational algebra)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "property (philosophy)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "psychological intervention": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "psychological resilience": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "psychology": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "public administration": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "public engagement": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "public participation": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "public relations": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "public sector": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "public service": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "concept"
+  },
+  "public space": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "public use": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "pyramid (geometry)": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "python (programming language)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "quality (philosophy)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "raster data": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "real-time computing": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "realism": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "realization (probability)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "concept"
+  },
+  "realm": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "redevelopment": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "reflection (computer programming)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "other"
+  },
+  "regeneration (biology)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "regional science": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "relation (database)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "relevance (law)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "reliability (semiconductor)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "other"
+  },
+  "remote sensing": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "rendering (computer graphics)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "renewable energy": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "replica": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "representation (politics)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "resilience (materials science)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "resource (disambiguation)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "reuse": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "concept"
+  },
+  "revenue": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "risk analysis (engineering)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "risk assessment": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "rock art": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "roof": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "safeguarding": {
+    "llama3": "concept",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "sampling (signal processing)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "sandbox (software development)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "scalability": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "scalar (mathematics)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "scale (ratio)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "schema (genetic algorithms)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "scope (computer science)": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "segmentation": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "seismic hazard": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "seismology": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "other",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "semantic computing": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "semantic data model": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "semantic grid": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "semantic heterogeneity": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "semantic integration": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "semantic interoperability": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "semantic web": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "semantic web stack": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "sensor web": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "service (business)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "service delivery framework": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "service design": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "service provider": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "set (abstract data type)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "shadow (psychology)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "simulation": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "smart city": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "smart growth": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "smartwatch": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "social science": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "sociology": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "sociotechnical system": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "software": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "software deployment": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "software engineering": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "soundness": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "space (punctuation)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "space syntax": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "spatial analysis": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "spatial database": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "stability (learning theory)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "stadium": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "stakeholder": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "standardization": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "state (computer science)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "statistics": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "strengths and weaknesses": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "studio": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "stylized fact": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "suite": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "supercomputer": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "supply and demand": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "survey data collection": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "sustainability": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "sustainable design": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "sustainable development": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "sustainable energy": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "sustainable products": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "systematic review": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "systems engineering": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "table (database)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "task (project management)": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "telecommunications": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "terrain": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "testbed": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "the internet": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "thematic analysis": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "thematic map": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "theoretical computer science": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "concept",
+    "qwen2.5": "other"
+  },
+  "thriving": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "tile": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "topology (electrical circuits)": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "tourism": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "tracing": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "transformation (genetics)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "transformative learning": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "transition (genetics)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "transmission (telecommunications)": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "transparency (behavior)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "transport engineering": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "tree allometry": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "trustworthiness": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "twin cities": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "underpinning": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "unintended consequences": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "unit (ring theory)": {
+    "llama3": "other",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "unpacking": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "upgrade": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "urban climate": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urban computing": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "urban density": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urban design": {
+    "llama3": "method",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "urban ecosystem": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urban environment": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urban heat island": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urban landscape": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urban morphology": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urban planning": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "urban policy": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "urban regeneration": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "urban resilience": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urban space": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urban sustainability": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urbanism": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urbanity": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "urbanization": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "usability": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "concept"
+  },
+  "usable": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "user interface": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "value (mathematics)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "value capture": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "variety (cybernetics)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "video game design": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "video tracking": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "virtual reality": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "concept",
+    "qwen2.5": "method"
+  },
+  "virtual representation": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "virtuality (gaming)": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "vision": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "visitor pattern": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "concept"
+  },
+  "visualization": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "volunteered geographic information": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "walkability": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "concept",
+    "qwen2.5": "concept"
+  },
+  "watershed": {
+    "llama3": "other",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "wearable computer": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "wearable technology": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "web 2.0": {
+    "llama3": "method",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "web application": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "web coverage service": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "web mapping": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "web service": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "wireless": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "concept"
+  },
+  "work (physics)": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "concept"
+  },
+  "workflow": {
+    "llama3": "method",
+    "mistral": "method",
+    "gemma2": "method",
+    "phi3": "method",
+    "qwen2.5": "method"
+  },
+  "world wide web": {
+    "llama3": "concept",
+    "mistral": "concept",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "method"
+  },
+  "zero (linguistics)": {
+    "llama3": "concept",
+    "mistral": "other",
+    "gemma2": "concept",
+    "phi3": "other",
+    "qwen2.5": "other"
+  },
+  "zoology": {
+    "llama3": "other",
+    "mistral": "other",
+    "gemma2": "other",
+    "phi3": "other",
+    "qwen2.5": "other"
+  }
+}
