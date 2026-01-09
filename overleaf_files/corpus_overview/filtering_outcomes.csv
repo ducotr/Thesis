@@ -1,0 +1,10 @@
+label,count
+retrieved,400
+included_valid,233
+excluded_total,167
+missing_title,1
+missing_abstract,122
+missing_date,2
+invalid_date,0
+no_keywords,65
+date_problem_total,2

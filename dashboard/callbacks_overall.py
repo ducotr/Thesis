@@ -149,7 +149,7 @@ def register(app: Dash) -> None:
         raw_w = edge_data.get("raw_weight")
         return html.Div(
             [
-                html.Div([html.B("Edge:"), f" {src} — {tgt}"]),
+                html.Div([html.B("Edge:"), f" {src} - {tgt}"]),
                 html.Div([html.B("raw_weight:"), f" {raw_w}"]),
             ]
         )

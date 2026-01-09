@@ -10,7 +10,7 @@ This file intentionally contains *only* configuration constants (no Dash callbac
 
 
 CONCEPT = "Urban Digital Twin"
-USE_CACHE = True
+USE_CACHE = False
 
 # Make edges readable (Cytoscape width units)
 EDGE_WIDTH_MIN = 0.5

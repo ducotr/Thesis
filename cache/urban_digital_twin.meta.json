@@ -12,8 +12,8 @@
     "mailto": "duco@trompert.net"
   },
   "retrieval": {
-    "date": "2025-12-23",
-    "use_cache": true,
+    "date": "2026-01-09",
+    "use_cache": false,
     "cache_path": "cache/urban_digital_twin.json"
   },
   "preprocessing": {
@@ -26,17 +26,18 @@
     "keyword_normalisation": "lowercased, spaces replaced with underscores"
   },
   "corpus_stats": {
-    "n_publications": 220,
+    "n_publications": 233,
     "year_min": 2019,
-    "year_max": 2025,
+    "year_max": 2026,
     "pubs_per_year": {
       "2019": 2,
       "2020": 1,
       "2021": 12,
       "2022": 25,
-      "2023": 34,
+      "2023": 33,
       "2024": 67,
-      "2025": 79
+      "2025": 92,
+      "2026": 1
     },
     "top_keywords": [
       [
@@ -45,11 +46,11 @@
       ],
       [
         "geography",
-        96
+        97
       ],
       [
         "engineering",
-        76
+        75
       ],
       [
         "data science",
@@ -57,11 +58,15 @@
       ],
       [
         "urban planning",
-        37
+        41
+      ],
+      [
+        "smart city",
+        34
       ],
       [
         "civil engineering",
-        35
+        34
       ],
       [
         "artificial intelligence",
@@ -69,19 +74,15 @@
       ],
       [
         "world wide web",
-        33
+        32
       ],
       [
         "business",
-        33
+        32
       ],
       [
         "political science",
-        31
-      ],
-      [
-        "smart city",
-        29
+        32
       ],
       [
         "environmental planning",
@@ -89,35 +90,35 @@
       ],
       [
         "cartography",
-        28
+        29
       ],
       [
         "remote sensing",
-        27
-      ],
-      [
-        "environmental science",
-        27
-      ],
-      [
-        "sociology",
-        24
-      ],
-      [
-        "visualization",
-        23
-      ],
-      [
-        "knowledge management",
-        21
+        28
       ],
       [
         "geospatial analysis",
-        21
+        26
+      ],
+      [
+        "environmental science",
+        26
+      ],
+      [
+        "sociology",
+        25
+      ],
+      [
+        "visualization",
+        24
       ],
       [
         "data mining",
         21
+      ],
+      [
+        "knowledge management",
+        20
       ]
     ]
   },

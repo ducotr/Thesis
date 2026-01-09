@@ -115,3 +115,4 @@ def collect_openalex_data(concept: str) -> list[Publication]:
         parameters["cursor"] = cursor
 
     return publications
+

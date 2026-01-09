@@ -207,7 +207,7 @@ def add_communities(G: nx.Graph, weight: str = "raw_weight") -> None:
 # - Birth and death of nodes
 #     - A node appears when a keyword first shows up.
 # - Evolution of community structure
-#     - Track clusters over time—this is amazing in visual form.
+#     - Track clusters over time, this is amazing in visual form.
 
 
 def jaccard_similarity_temporal_network(

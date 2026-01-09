@@ -324,7 +324,7 @@ def register(app: Dash) -> None:
             or int(transition.get("target_year", year)) != year
         ):
             # If we have no previous state (first interaction OR we just came from an empty graph),
-            # don't animate from some default year — just show the requested year instantly.
+            # don't animate from some default year, just show the requested year instantly.
             if not pos_store or current_year is None:
                 G_target = get_graph(
                     network_kind, year, min_value=min_value, sim_threshold=sim_threshold
@@ -729,7 +729,7 @@ def register(app: Dash) -> None:
         raw_w = edge_data.get("raw_weight")
         return html.Div(
             [
-                html.Div([html.B("Edge:"), f" {src} — {tgt}"]),
+                html.Div([html.B("Edge:"), f" {src} - {tgt}"]),
                 html.Div([html.B("raw_weight:"), f" {raw_w}"]),
                 html.Div(
                     "Next upgrade: show supporting publications where both endpoints occur together."

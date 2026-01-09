@@ -1,0 +1,17 @@
+group,field,count_present,total,pct_present
+raw_all,source_id,400,400,100.0
+raw_all,doi,381,400,95.25
+raw_all,title,399,400,99.75
+raw_all,abstract,278,400,69.5
+raw_all,publication_date,398,400,99.5
+raw_all,keywords,335,400,83.75
+raw_all,authors,394,400,98.5
+raw_all,total_cited_by,400,400,100.0
+included_valid,source_id,233,233,100.0
+included_valid,doi,221,233,94.84978540772532
+included_valid,title,233,233,100.0
+included_valid,abstract,233,233,100.0
+included_valid,publication_date,233,233,100.0
+included_valid,keywords,233,233,100.0
+included_valid,authors,232,233,99.57081545064378
+included_valid,total_cited_by,233,233,100.0
